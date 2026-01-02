@@ -1,0 +1,12 @@
+[submodule "pomi-backend"]
+	path = pomi-backend
+	url = git@github.com:ominira-unicamp/pomi-backend.git
+[submodule "pomi-docs"]
+	path = pomi-docs
+	url = git@github.com:ominira-unicamp/pomi-docs.git
+[submodule "pomi-frontend"]
+	path = pomi-frontend
+	url = git@github.com:ominira-unicamp/pomi-frontend.git
+[submodule "pomi-ts-sdk"]
+	path = pomi-ts-sdk
+	url = git@github.com:ominira-unicamp/pomi-ts-sdk.git
