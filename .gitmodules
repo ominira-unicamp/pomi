@@ -10,3 +10,6 @@
 [submodule "pomi-ts-sdk"]
 	path = pomi-ts-sdk
 	url = git@github.com:ominira-unicamp/pomi-ts-sdk.git
+[submodule "pomi-infra"]
+	path = pomi-infra
+	url = git@github.com:ominira-unicamp/pomi-infra.git
